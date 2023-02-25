@@ -1,0 +1,10 @@
+body {
+    color: aliceblue;
+    background-color: #013A6B;
+    background-image: -webkit-linear-gradient(90deg, #013A6B 20%, #004E95 70%);
+    background-repeat:no-repeat;
+}
+
+td, th {
+    color: aliceblue;
+}
